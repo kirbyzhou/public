@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:19:45.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="GsqJPIi4PPq2SKKZ6A8I" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:21:04.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="hi_am79F2q3bgRxu4D_p" version="20.5.3" type="github">
   <diagram id="C55GAdEgixcBntScY-7r" name="第 1 页">
     <mxGraphModel dx="1453" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-23" value="&lt;p&gt;86盒&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="GCaUtwYMzPnIk7fHXFFh-43" vertex="1">
           <mxGeometry width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-28" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-43" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-28" value="开关1" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-43" vertex="1">
           <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-32" value="凌动双控开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GCaUtwYMzPnIk7fHXFFh-43" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-53" value="&lt;p&gt;86盒&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="GCaUtwYMzPnIk7fHXFFh-52" vertex="1">
           <mxGeometry width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-54" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-52" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-54" value="开关5" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-52" vertex="1">
           <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-55" value="凌动双控开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GCaUtwYMzPnIk7fHXFFh-52" vertex="1">
@@ -34,10 +34,10 @@
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-57" value="&lt;p&gt;86盒&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
           <mxGeometry width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-59" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-59" value="开关3A" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-60" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-60" value="双控3B" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
           <mxGeometry x="60" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-61" value="双路凌动双控开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GCaUtwYMzPnIk7fHXFFh-64" vertex="1">
@@ -73,10 +73,10 @@
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-5" value="易来双路控制器" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-29" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-29" value="开关2A" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-30" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-30" value="开关2B" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
           <mxGeometry x="60" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-33" value="双路凌动双控开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GCaUtwYMzPnIk7fHXFFh-42" vertex="1">
@@ -124,10 +124,10 @@
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-74" value="易来双路控制器" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-75" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-75" value="开关4A" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GCaUtwYMzPnIk7fHXFFh-76" value="双控开关" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
+        <mxCell id="GCaUtwYMzPnIk7fHXFFh-76" value="开关4B" style="rounded=1;whiteSpace=wrap;html=1;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
           <mxGeometry x="60" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GCaUtwYMzPnIk7fHXFFh-77" value="双路凌动双控开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GCaUtwYMzPnIk7fHXFFh-72" vertex="1">
